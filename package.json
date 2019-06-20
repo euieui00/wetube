@@ -1,0 +1,11 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "'REAL' Youtube i wish",
+  "main": "index.js",
+  "author": "Someeui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
